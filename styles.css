@@ -1,0 +1,84 @@
+body {
+	font-family: Arial;
+	background: #EFF1F7;
+	align-items: center;
+}
+
+.content{
+	grid-area: content;
+}
+
+.container {
+	font-size: 1.5em;
+	width: 100%;
+	height: 100vh;
+	display: grid;
+}
+
+.content{
+	padding: 1em;
+}
+
+nav ul {
+	margin: 0;
+	padding: 0;
+	display: flex;
+	justify-content: space-between
+}
+
+.me {
+	max-width: 960px;
+	margin: 0 auto;
+	text-align: center;;
+}
+
+.me img {
+	width: 200px;
+	align-items: center;
+}
+
+.me h1 {
+	font-size: 2em;
+	font-weight: 300;
+	line-height: 1.8em;
+	color: #8486ad;
+}
+
+.titles h3{
+	text-align: center;
+	background : #abc29c;
+	padding: 5px;
+	color: white;
+	font-size: 20px;
+	letter-spacing: 3px;
+}
+
+.email h6{
+	text-align: center;
+	padding: 0px;
+	color: gray;
+	font-size: 10px;
+	letter-spacing: 3px;
+}
+
+.email h5 {
+	text-align: center;
+	padding: 0px;
+	color: gray;
+	font-size: 20px;
+	letter-spacing: 3px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
